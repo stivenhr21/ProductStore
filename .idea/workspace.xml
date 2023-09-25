@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74dbbc7a-db43-4c90-8394-6a843910da87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/models/DatosPrueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/questions/iniciosesion/ValidarInicioSesion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/questions/x" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/tasks/comunes/AbrirUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/tasks/iniciosesion/InicioSesion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/userinterface/iniciosesion/InicioSesionUserinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/userinterface/x" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/util/transversal/CargarDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/util/transversal/Esperar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/stiven/productstore/util/x" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/stiven/productstore/runners/InicioSesionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/stiven/productstore/stepdefinitions/iniciosesion/InicioSesionStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/x" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
