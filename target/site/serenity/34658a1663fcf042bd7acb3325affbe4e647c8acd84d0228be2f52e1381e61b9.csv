@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Sitio web Product Store - Iniciar sesion","Iniciar sesion correctamente con un usuario valido","SUCCESS","2023-09-25T14:26:13.5127547-05:00[America/Bogota]","0.0","26.3"
+"Sitio web Product Store - Iniciar sesion","Iniciar sesion con un usuario invalido","SUCCESS","2023-09-25T14:26:39.8255784-05:00[America/Bogota]","0.0","13.21"
